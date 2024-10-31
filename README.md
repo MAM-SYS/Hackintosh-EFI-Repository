@@ -1,0 +1,2 @@
+# Hackintosh-EFI-Repository
+Intel Core i5-13600K, Asus TUF GAMING B660-PLUS WIFI D4 ATX, Asus TUF-RX6800XT-O16G-GAMING Radeon RX 6800 XT 16 GB Hackintosh EFI
